@@ -1,0 +1,8 @@
+a=input("Please input a number: ")
+b=str(a)
+l=len(b)
+c=""
+for i in range(l):
+    c+=(b[-1-i])
+c=int(c)
+print " the opposite is: ",c

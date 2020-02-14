@@ -1,0 +1,306 @@
+\def\rank{\mathop{\rm rank}}
+\def\wgt{\mathop{\rm wgt}}
+\def\lc{\mathop{\rm lc}}
+\newcommand{\code}[1]{\texttt{#1}}
+\documentclass[aps,prb,12pt,tightenlines,%
+notitlepage,longbibliography]{revtex4-1}
+
+%left alighment of title
+\usepackage{etoolbox}
+\patchcmd{\section}
+  {\centering}
+  {\raggedright}
+  {}
+  {}
+\patchcmd{\subsection}
+  {\centering}
+  {\raggedright}
+  {}
+  {}
+
+
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{array}
+\usepackage{enumitem}
+\newtheorem{theorem}{Theorem}
+\newtheorem{statement}[theorem]{Theorem}
+\newtheorem{note}[theorem]{Note}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{definition}[theorem]{Definition}
+%\advance\textheight by -3.2in
+\begin{document}
+\title{Lecture Note on Python}
+\author{WZ}
+\date{\today}
+\begin{abstract}
+  This note includes everything covered in the class. It will be
+  updated every week.
+\end{abstract}
+\maketitle
+
+\section{syllabus}
+\textbf{Objectives}: In this class, you will learn the basics of
+Python. You will be able to write excutable codes on your own and read
+most python codes. Most importantly, you will learn how to treat and
+solve problem in the sense of computer science.
+
+
+\textbf{Instructor}: WZ
+
+\textbf{Class Meetings}:
+
+regular meeting on Sunday 2:30-4:30pm;
+
+to be scheduled for Monday 4:30-6:30pm.
+
+Mar 31-Jun 10
+
+20 lessons in 10 weeks, 2 hours for each lesson. In each lesson, the
+first half will focus on the lecture, and the second half for practice
+and tutoring.
+
+This is an exercise-based class. The amount of knowledge you learned
+will be proportional to the amount of lines you wrote in Python. There
+will be assignment everyweek. We will have time to discuss or even do
+it in class. There will also be a project, to be started
+on week 5, finished on week 8, and revised in the last two weeks. 
+
+\textbf{Textbooks}:
+
+For the lectures, we will follow these
+\href{http://uwpce-pythoncert.github.io/IntroPython2016a/session01.html}{Slides}.
+
+For reference, this is a wikibook of python: 
+\href{https://pymbook.readthedocs.io/en/latest/index.html}{Python for
+  you and me}.
+
+Sample codes, assignments, and other material will be updated on 
+\href{https://github.com/WeileiZeng/python-tutorial}{GitHub}.
+
+The most powerful tool I have ever used is \href{https://www.google.com/}{Google}.
+
+\textbf{Prerequisite}
+
+We can start learning programming at any level, as long as you have
+stable access to a laptop for practicing.
+
+\newpage
+\textbf{Tentative content}:
+
+The following topics covers the basics in Python.
+As everyone has
+different needs when learning programming language. We will discuss
+how much of them will be covered and what to be added. Especially we
+can come up with some projects as preparation for the summer camp.
+
+\begin{enumerate}
+
+\item  Introduction
+\item   gitHub, Functions, Booleans and Modules
+\item   Sequences, Iteration and String Formatting
+\item   Dictionaries, Sets, and Files
+\item   Exceptions, Testing, Comprehensions
+\item   Advanced Argument Passing, Lambda -- functions as objects
+\item   Object Oriented Programming
+\item   More OO -- Properties, Special methods
+\item  Iterators, Iterables, and Generators
+\item   Decorators, Context Managers, Regular Expressions, and Wrap Up
+  
+\end{enumerate}
+
+More topics to be determined
+\begin{enumerate}
+\item
+  Graphics user interface(GUI).
+\item
+  Image/data processing
+\item
+  Internet communication, (TCP/IP)
+\item
+  Editors (emacs), window manager (tmux), typesetting format (latex,
+  markdown)
+\item
+  Game engine (Unity)
+\end{enumerate}
+
+\newpage
+\tableofcontents
+
+\section{Lecture notes}
+
+\subsection{Lecture 1, Session 1, Mar 31, Introduction}
+Introduction to python
+
+Course outline
+
+Sample codes and projects
+
+Environment setup (Installation, Editor, GitHub)
+
+HelloWorld!
+
+\subsection{Lecture 2, Session 1, Apr 1, 2-4pm}
+start at assignment
+
+finish on function
+
+\subsection{Lecture 3, Session 1-2, Apr 7, 2-4pm}
+
+review mac/linux,python,emacs
+review data type, function
+
+start on function (return, parameter)
+
+if, list, for
+
+finish before variable scope, local v.s. global
+
+\textbf{exercise in class}:FizzBuzz, exercise 2.2,2.3
+
+\textbf{home exercise}: finish 2.2,2.3, do 2.4, think about 2.5
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{exercise}
+For each exercise, please create a single \code{.py} file, e.g. \code{session1\_1.py}. Please put
+all your files in one or several folders.
+\subsection{session 1}
+\begin{enumerate}
+  \item *
+    create folder \texttt{firstFolder}, create file
+    \texttt{first\_file.txt}, write your name and date into that file;
+    Copy this file to \texttt{second\_file.txt}, and write
+    ``helloworld'' into the second file.
+
+    Hint: to copy a file in mac, use \code{cp [name of file1] [name of file2]}
+  \item *
+    create helloworld.py; run it in python and shell respectively
+  \item *
+    assign some value to $a$ and $b$, calculate $c=a+b$ and print the
+    result in the form ``c=[value of c]''
+  \item *
+    create a file to check the priority of \code{+-*/=}
+  \item *
+    assign value of a,b,print them; switch value of them, and print
+    the result
+
+  \item
+    prepare a conversation between Jack and Rose, 5 sentence each.
+    
+    (This material will be used in several late programs: (a) print
+    the conversation; (b) enunciate the conversation, using \code{say}.)
+\end{enumerate}
+
+\subsection{session 2}
+\begin{enumerate}
+\item
+  warmup exersice
+\item
+  (a) print sequence 1-100;
+  (b) add sum of 1-100 and print the result
+\item
+  print sequence 100-1
+\item
+  (a) find average of three numbers
+  (b) find maximum of three numbers
+\item
+  calculate prime numbers within 100
+\item
+  create random sequence of length 100
+\item
+  sort a sequence
+\item
+  calculate Pi
+\item
+  calculate square root of a number
+\item
+  game: 21 piont
+\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ideas on big project}
+\begin{enumerate}
+\item
+  a conversation robot. Giving questions and responds according to
+  answer
+\item
+  conversation application between two computer
+\item
+  a graphics program?
+\item
+  flappy bird
+\item
+  interactive math test. give random question and count the rate and time.
+\item
+  2048
+\end{enumerate}
+
+\section{benchmark problem set(to be updated)}
+These problem ensure you to understand various concepts in
+Python. These are the source of assignment.
+
+\begin{enumerate}
+\item hello world!
+\item summation of integers from 1 to 100
+\item Fibonacci sequence
+\item contact book
+\item simple calculator
+\item Tower of Hanoi
+\item Tetris  
+
+\end{enumerate}
+
+
+\section{command list}
+Limux/Mac terminal command
+\begin{verbatim}
+cd : enter a folder
+ls : list of all the files in current folder
+mkdir : create a new directly
+rm : delete a file (be cautious!)
+touch [file] : create file
+less : view the file, press [q] to quit
+cat : print the file
+cp [file1] [file2] :copy file1 to file2
+Tab : auto completement
+man [cmd] : show the manual on how to use this command. for example
+man cp
+\end{verbatim}
+editor: emacs, prefix Ctrl-x  or C-x
+
+\begin{verbatim}
+emacs + [filename] : open this file for editing
+C-x C-s : save file
+C-x C-c : exit
+C-x C-f : find/open file
+C-x C-w : write buffer to a new file
+C-a : move cursor to the head of the line
+C-e : move cursor to the end of the line
+C-k : kill the line
+C-y : yank/paste the lines has been killed right before
+C-n : next line
+C-p : previous line
+\end{verbatim}
+
+how to run python in terminal
+\begin{verbatim}
+python : lauch python
+python + [filename] : use python to excute this file
+\end{verbatim}
+
+python command
+\begin{verbatim}
+print() : print string in ()
+exit()  or Ctrl-d: exit python
+\end{verbatim}
+
+
+\bibliography{WeileiBibFile}
+
+\end{document}
+

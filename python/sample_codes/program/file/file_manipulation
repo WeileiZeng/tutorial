@@ -1,0 +1,102 @@
+
+##If the txt file is in the same path as it of the py file,
+##one can directly use the file name to open it.
+##If not, one can write the whole accurate path before the filename, and then
+##open it. Remember that, the symbol '\' has a unique meaning in python, so we
+##have to use '/' to seperate adjacent 
+
+
+def read():
+    a=open("testing.txt",'r')
+
+    a=open("C:/Python26/program/file/testing.txt",'r')
+
+    for i in range(5):
+        print a.readline()
+
+    off=0
+    where=0
+    a.seek(off,where)
+    # change the position where we read and wirte
+    #'off' means how much we move, plus integer means moving back, and minus forward
+    #'where' means where you begin to move, 0 refers to the beginning of the file,
+    # 1 refers to the current position, 2 refers to the end of the file 
+    for i in range(5):
+        print a.readline()
+
+    for i in range(20):
+        a.seek(0,0)
+        print a.read(i)  
+    a.seek(0,0)
+
+    print a.read() 
+    print a.readline()   #read one line each time
+    print 'a'
+    #a.flush()#remove memory
+    print a.readlines()   #read all lines after the current position and return a list
+    print a.read()        #read all or particular length of the file after current position
+    print a.readlines(3)
+    a.close()
+
+def write():
+    a=open("testing.txt",'w+')# the write mode will remove all previous content
+    a.writelines(['t\n','t'])
+    a.close()
+    a=open("testing.txt",'r')
+    print a.read()
+    a.close()
+def append():
+    a=open("testing.txt",'a')
+    a.write('t')
+    a.close()
+    a=open("testing.txt",'r')
+    print a.read()
+    a.close()
+def read_write():
+    a=open("testing.txt",'a+')
+    print a.read()
+    a.write('t')
+    print a.read()
+    a.close()
+
+#read()
+#append()
+#write()
+#read_write()
+
+def main():
+    a=open("testing.txt",'w')
+    a.close()
+    a=open("testing.txt",'a')
+    #print a.read()
+    #a.close()
+    string='abcdefghijklmnopqrstuvwxyz'
+    for i in range(26):
+        a.write(string[i]*(i+1)+'\n')
+    
+
+    a.close()
+    a=open("testing.txt",'r')
+    print a.read()
+    a.close()
+    
+#main()
+
+def phone_list():
+    a=open("phone_list.txt",'w')# construct a new file if the file does not exixt before
+    a.close()
+
+phone_list()
+
+
+
+
+
+
+
+
+
+
+
+
+

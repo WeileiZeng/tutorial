@@ -1,0 +1,10 @@
+
+teaching-note.log
+teaching-note.aux
+teaching-note.out
+teaching-note.toc
+teaching-noteNotes.bib
+*.py~
+*.pyc
+auto/teaching-note.el
+*.pyc

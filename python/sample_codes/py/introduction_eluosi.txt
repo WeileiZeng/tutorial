@@ -1,0 +1,19 @@
+
+    The button 'soon' and 'slow' can\nbe pressed any time to change the \nspeed,the higher the speed is, the \nfaster your scores increase.\n    the mode1 is common mode,mode2 is\ndifficulter,in which there will be an\nextral row in the bottom of the window\n    the buttons \'right\'and \'left\' can\nchange the derection when the squares\n', 'spin.\n    if you want to exit before game is\nover,press \'stop\' first! \n
+
+
+          INTRODUCTION
+    The button 'soon' and 'slow' can
+be pressed any time to change the 
+speed,the higher the speed is, the 
+faster your scores increase.
+    the mode1 is common mode,mode2 is
+difficulter,in which there will be an
+extral row in the bottom of the window
+    the buttons 'right'and 'left' can
+change the derection when the squares
+spin.
+    if you want to exit before game is
+over,press 'stop' first! 
+
+

@@ -1,0 +1,21 @@
+#coconut_and_pirate
+
+
+def check(total):
+    total *=1.0
+    for i in range(5):
+        total=(total-1)/5*4
+    final=(total-1)/5
+    return final
+
+print check(3121)
+
+
+def solution():
+    test=1
+    flag=0
+    while (flag==0):
+        for i in range(5):
+            total=(total-1)/5*4
+        final=(total-1)/5
+        return final
