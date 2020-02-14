@@ -19,3 +19,10 @@ I enjoy discussion on education and practice some of my ideas by tutoring. Since
 
 
 ## Javascript
+
+
+## others
+* GitHub pages
+* markdown
+* tmux
+* shell
