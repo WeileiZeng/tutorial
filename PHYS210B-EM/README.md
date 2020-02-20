@@ -9,7 +9,7 @@ Introduction: This repo only contain statistical information.
 homework record
 
 |   index | problem set | max credit | full credit | extra credit problem | posted on | due on   | graded on |
-|---------+-------------+------------+-------------+----------------------+-----------+----------+-----------|
+|---------|-------------|------------|-------------|----------------------|-----------|----------|-----------|
 |       1 |         1-9 |         90 |          80 |                    5 | Jan 2     | Jan 15   | Feb 15    |
 |       2 |       10-18 |         90 |          80 |                   18 | Jan 15    | Jan 24   | ..        |
 |       3 |       19-26 |         80 |          70 |                   26 | Jan 24    | Jan 31   | ..        |
