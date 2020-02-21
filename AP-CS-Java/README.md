@@ -10,6 +10,9 @@ Active dates: Feb 6 2020, - present
 
 * [Java Tutorial](https://www.learnjavaonline.org/en/Welcome) (main resource for this class) It has a topic based introduction for java, with well designed exercise for practice.
   
+* https://github.com/jizusun/apcs-2017-spring  Good teaching material designed for the class
+
+* [FAQ}(https://apcentral.collegeboard.org/courses/ap-computer-science-a/course/frequently-asked-questions)
 
 ### Class Meetings
 2-hour class Every Tursday.
