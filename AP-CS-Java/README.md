@@ -34,13 +34,19 @@ Active dates: Feb 6 2020, - present
 * [Introduction of content for AP computer science](https://apstudents.collegeboard.org/courses/ap-computer-science-a) It introduces the content of the AP CS test and how each topic is weighted.
 
 * [Java Tutorial](https://www.learnjavaonline.org/en/Welcome) (main resource for this class) It has a topic based introduction for java, with well designed exercise for practice.
-  
+
+Other resources
 * https://github.com/jizusun/apcs-2017-spring  Good teaching material designed for the AP-CS-A
-
 * [Frequently Asked Questions](https://apcentral.collegeboard.org/courses/ap-computer-science-a/course/frequently-asked-questions)
-
 * [Coding Bat](https://codingbat.com/java) exercises
-
+* how to run Java online
+  *  https://www.compilejava.net/ multiple file; no stdin
+  *  https://www.tutorialspoint.com/compile_java_online.php single file, with stdin
+  *  https://ide.sphere-engine.com/ vertual environment with everthing.
+* how to run java locally on Mac
+  * JDK
+  * SDK
+  
 ### Class Meetings
 2-hour class Every Tursday.
 
