@@ -53,6 +53,11 @@ We plan to cover all the basic topics and the first two advanced topics in a per
   * Show how to use GitHub, a convenient way to manage and share your code. ( It is this website you are reading)
   * learn the interface on MacBook, including how to open the terminal, how to write and run the code to print text (the so called 'hello world!') and produce sound.
 
-* Week 2 Feb 13, 2020
+* Week 2 Feb 20, 2020 (one week skipped)
+  * Finish Chap 1 "Hello World!"
+  * Finish Chap 2 "Variables and Types" except boolean type
+  * explain comment and println/print
+  * TODO: set up local IDE ( a software to run java code ); manage codes; Prepare more exercise
+  * COMMENT: the class is going well. Student understand the materials in a good pace and is able to finish related exercises. We decided to focus on the Java language, which will cover more than half of the exam.
 
-  To be updated
+
