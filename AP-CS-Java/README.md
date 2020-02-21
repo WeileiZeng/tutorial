@@ -1,6 +1,31 @@
 
 ## AP Computer Science A - a tutorial with java
-These are material used in an one-on-one tutoring program, for a high school student preparing for AP computer science exam. This document will be updated weekly
+
+These are material
+used in an one-on-one tutoring program, for a high school student
+preparing for AP computer science exam. This document will be updated
+weekly
+
+Who should take the class: The usual routine for preparing for the AP
+CS test is to take AP CS Principle first and then AP CS
+A. AP-CS-Principle serve as a general introduction of computers,
+internet, data and programming language. It uses a block programming
+language in the second half to introduce ideas of programming. AP-CS-A
+is fully related to the AP CS test, which is based on a subset of Java
+language. All required knowledge for the test will be explained part
+by part in this class. It require a period of intense exercise and
+mental effort. If you are taking one of these two classes, it is
+better to focus on the class, and use tutoring time for more
+explanations and exercise. If you are not taking these classes but
+want to prepare for the test, then this class can be helpful to
+introduce you the idea of programming and basics of Java. This class
+is a simplified version of AP-CS-A, which will cover more than half of
+the topics in the test. It also require a lot of exercise, which
+should take the same amount of time as the content of the
+classes. This class is not as intense as AP-CS-A. Instead of covering
+all the detail, this class will focus on the essential idea of each
+part and use them to write programs. Things run more quickly in this
+class!
 
 Active dates: Feb 6 2020, - present
 
@@ -10,16 +35,18 @@ Active dates: Feb 6 2020, - present
 
 * [Java Tutorial](https://www.learnjavaonline.org/en/Welcome) (main resource for this class) It has a topic based introduction for java, with well designed exercise for practice.
   
-* https://github.com/jizusun/apcs-2017-spring  Good teaching material designed for the class
+* https://github.com/jizusun/apcs-2017-spring  Good teaching material designed for the AP-CS-A
 
-* [FAQ}(https://apcentral.collegeboard.org/courses/ap-computer-science-a/course/frequently-asked-questions)
+* [Frequently Asked Questions](https://apcentral.collegeboard.org/courses/ap-computer-science-a/course/frequently-asked-questions)
+
+* [Coding Bat](https://codingbat.com/java) exercises
 
 ### Class Meetings
 2-hour class Every Tursday.
 
 
 ### Planned Schedule for 10-week classes (2 hour class each week)
-We plan to cover all the basic topics and the first two advanced topics in a period of 10 weeks.
+We plan to cover all the basic topics and the first two advanced topics in a period of 10 weeks. The basic topics will be covered in the first 5 weeks.
 <h4>Learn the Basics</h4>
 <ul>
 <li><a href='https://www.learnjavaonline.org/en/Hello%2C_World%21'>Hello, World!</a></li>
