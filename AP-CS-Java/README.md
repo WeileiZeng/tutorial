@@ -38,7 +38,8 @@ Active dates: Feb 6 2020, - present
 Other resources
 * https://github.com/jizusun/apcs-2017-spring  Good teaching material designed for the AP-CS-A
 * [Frequently Asked Questions](https://apcentral.collegeboard.org/courses/ap-computer-science-a/course/frequently-asked-questions)
-* [Coding Bat](https://codingbat.com/java) exercises
+* [Coding Bat](http://www.mathwithmrwood.com/ap-computer-science/ap-computer-science-gridworld) selected exercises for AP-CS-A at Coding Bat
+* [Sample test](https://sites.google.com/site/mtwood2/ap-computer-science/ap-computer-science-problem-sets) [more info](https://sites.google.com/site/mtwood2/ap-computer-science)
 * how to run Java online
   *  https://www.compilejava.net/ multiple file; no stdin
   *  https://www.tutorialspoint.com/compile_java_online.php single file, with stdin
