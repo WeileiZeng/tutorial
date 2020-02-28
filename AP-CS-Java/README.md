@@ -94,4 +94,11 @@ We plan to cover all the basic topics and the first two advanced topics in a per
   * TODO: set up local IDE ( a software to run java code ); manage codes; Prepare more exercise
   * COMMENT: the class is going well. Student understand the materials in a good pace and is able to finish related exercises. We decided to focus on the Java language, which will cover more than half of the exam.
 
-
+* Week 3 Feb 27, 2020
+  * finish boolean
+  * finish "Conditionals"
+  * finish "Compiling and running a java program"
+  * set up java environment in Mac, and use terminal as IDE.
+  * TODO: add a list of commmand for terminal/shell, emacs, and Java
+  * TODO: more practice in the shell
+  
