@@ -96,9 +96,9 @@ We plan to cover all the basic topics and the first two advanced topics in a per
 
 * Week 3 Feb 27, 2020
   * finish boolean
-  * finish "Conditionals"
-  * finish "Compiling and running a java program"
+  * finish "Conditionals". [exercise1](https://codingbat.com/prob/p183071) [exercise2](https://codingbat.com/prob/p157733)
+  * finish "Compiling and running a java program" 
   * set up java environment in Mac, and use terminal as IDE.
-  * TODO: add a list of commmand for terminal/shell, emacs, and Java
+  * here is [a list of commmand for terminal/shell, emacs, and Java](https://github.com/WeileiZeng/tutorial/blob/master/shell.md)
   * TODO: more practice in the shell
   
