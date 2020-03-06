@@ -2,9 +2,9 @@
   "files": [
     "contributor.md"
   ],
-  "imageSize": 20,
-  "commit": false,
-  "contributorsPerLine": 15,
+  "imageSize": 50,
+  "commit": true,
+  "contributorsPerLine": 7,
   "projectName": "tutorial",
   "projectOwner": "WeileiZeng",
   "repoType": "github",
