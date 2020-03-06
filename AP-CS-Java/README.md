@@ -38,7 +38,7 @@ Active dates: Feb 6 2020, - present
 Other resources
 * https://github.com/jizusun/apcs-2017-spring  Good teaching material designed for the AP-CS-A
 * [Frequently Asked Questions](https://apcentral.collegeboard.org/courses/ap-computer-science-a/course/frequently-asked-questions)
-* [Coding Bat](http://www.mathwithmrwood.com/ap-computer-science/ap-computer-science-gridworld) selected exercises for AP-CS-A at Coding Bat
+* [Selected Coding Bat](http://www.mathwithmrwood.com/ap-computer-science/ap-computer-science-gridworld) selected exercises for AP-CS-A at [Coding Bat](https://codingbat.com/java)
 * [Sample test](https://sites.google.com/site/mtwood2/ap-computer-science/ap-computer-science-problem-sets) [more info](https://sites.google.com/site/mtwood2/ap-computer-science)
 * how to run Java online
   *  https://www.compilejava.net/ multiple file; no stdin
@@ -100,5 +100,5 @@ We plan to cover all the basic topics and the first two advanced topics in a per
   * finish "Compiling and running a java program" 
   * set up java environment in Mac, and use terminal as IDE.
   * here is [a list of commmand for terminal/shell, emacs, and Java](https://github.com/WeileiZeng/tutorial/blob/master/shell.md)
-  * TODO: more practice in the shell
+  * TODO: more practice in the shell. Use this list [codingbat](https://docs.google.com/document/d/1ONgqQWeyVfD3MT-E1elMnFJANEe-7NlmRjYd1myhlsk/edit)
   
