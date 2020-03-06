@@ -18,7 +18,8 @@
       "profile": "http://www.efcie.org",
       "contributions": [
         "platform",
-        "question"
+        "question",
+        "bug"
       ]
     },
     {
