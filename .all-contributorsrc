@@ -4,6 +4,12 @@
   ],
   "imageSize": 20,
   "commit": false,
+  "contributorsPerLine": 15,
+  "projectName": "tutorial",
+  "projectOwner": "WeileiZeng",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
   "contributors": [
     {
       "login": "WeileiZeng",
@@ -25,11 +31,5 @@
         "platform"
       ]
     }
-  ],
-  "contributorsPerLine": 15,
-  "projectName": "tutorial",
-  "projectOwner": "WeileiZeng",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": false
+  ]
 }
