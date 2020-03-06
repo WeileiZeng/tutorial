@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "WeileiZeng",
+      "name": "Radish Meeting",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19247589?v=4",
+      "profile": "http://weileizeng.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "tutorial",
+  "projectOwner": "WeileiZeng",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
