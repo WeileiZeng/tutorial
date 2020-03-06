@@ -3,7 +3,7 @@
     "contributor.md"
   ],
   "imageSize": 50,
-  "commit": true,
+  "commit": false,
   "contributorsPerLine": 7,
   "projectName": "tutorial",
   "projectOwner": "WeileiZeng",
@@ -11,17 +11,6 @@
   "repoHost": "https://github.com",
   "skipCi": true,
   "contributors": [
-    {
-      "login": "WeileiZeng",
-      "name": "Radish Meeting",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/19247589?v=4",
-      "profile": "http://weileizeng.com",
-      "contributions": [
-        "code",
-        "maintenance",
-        "test"
-      ]
-    },
     {
       "login": "efcie",
       "name": "efcie",
