@@ -102,3 +102,6 @@ We plan to cover all the basic topics and the first two advanced topics in a per
   * here is [a list of commmand for terminal/shell, emacs, and Java](https://github.com/WeileiZeng/tutorial/blob/master/shell.md)
   * TODO: more practice in the shell. Use this list [codingbat](https://docs.google.com/document/d/1ONgqQWeyVfD3MT-E1elMnFJANEe-7NlmRjYd1myhlsk/edit)
   
+* Week 4 plan
+  * more practice on coding bat and in shell as well
+  * next chapter, and again practice
