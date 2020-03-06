@@ -2,26 +2,15 @@
   "files": [
     "contributor.md"
   ],
-  "imageSize": 20,
+  "imageSize": 50,
   "commit": false,
-  "contributorsPerLine": 15,
+  "contributorsPerLine": 7,
   "projectName": "tutorial",
   "projectOwner": "WeileiZeng",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
   "contributors": [
-    {
-      "login": "WeileiZeng",
-      "name": "Radish Meeting",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/19247589?v=4",
-      "profile": "http://weileizeng.com",
-      "contributions": [
-        "code",
-        "maintenance",
-        "test"
-      ]
-    },
     {
       "login": "efcie",
       "name": "efcie",
@@ -30,6 +19,16 @@
       "contributions": [
         "platform",
         "question",
+        "bug"
+      ]
+    },
+    {
+      "login": "WeileiZeng",
+      "name": "Radish Meeting",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19247589?v=4",
+      "profile": "http://weileizeng.com",
+      "contributions": [
+        "code",
         "bug"
       ]
     }
