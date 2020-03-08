@@ -15,7 +15,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://www.efcie.org"><img src="https://avatars2.githubusercontent.com/u/59324399?v=4" width="50px;" alt=""/><br /><sub><b>efcie</b></sub></a><br /><a href="#platform-efcie" title="Packaging/porting to new platform">📦</a> <a href="#question-efcie" title="Answering Questions">💬</a></td>
-    <td align="center"><a href="http://weileizeng.com"><img src="https://avatars1.githubusercontent.com/u/19247589?v=4" width="50px;" alt=""/><br /><sub><b>Radish Meeting</b></sub></a><br /><a href="https://github.com/WeileiZeng/tutorial/commits?author=WeileiZeng" title="Code">💻</a> <a href="https://github.com/WeileiZeng/tutorial/issues?q=author%3AWeileiZeng" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://weileizeng.com"><img src="https://avatars1.githubusercontent.com/u/19247589?v=4" width="50px;" alt=""/><br /><sub><b>Radish Meeting</b></sub></a><br /><a href="https://github.com/WeileiZeng/tutorial/commits?author=WeileiZeng" title="Code">💻</a> <a href="https://github.com/WeileiZeng/tutorial/issues?q=author%3AWeileiZeng" title="Bug reports">🐛</a> <a href="https://github.com/WeileiZeng/tutorial/pulls?q=is%3Apr+reviewed-by%3AWeileiZeng" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
