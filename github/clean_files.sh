@@ -1,0 +1,3 @@
+# clean files *~
+rm *~
+rm */*~
