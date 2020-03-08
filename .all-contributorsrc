@@ -1,6 +1,6 @@
 {
   "files": [
-    "contributor.md"
+    "github/contributor.md"
   ],
   "imageSize": 50,
   "commit": false,
@@ -18,7 +18,9 @@
       "profile": "http://www.efcie.org",
       "contributions": [
         "platform",
-        "question"
+        "question",
+        "bug",
+        "review"
       ]
     },
     {
@@ -27,9 +29,7 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/19247589?v=4",
       "profile": "http://weileizeng.com",
       "contributions": [
-        "code",
-        "bug",
-        "review"
+        "code"
       ]
     }
   ]
