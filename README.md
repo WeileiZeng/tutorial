@@ -19,6 +19,8 @@ I enjoy discussion on education and practice some of my ideas by tutoring. Since
   - [x] gitter
   - [ ] Github Pages
   - [ ] Jekyll, Liquid
+  - [ ] [Netlify]() host static github site freely.
+  - [ ] [ALl contributor](https://github.com/WeileiZeng/tutorial/blob/master/contributor.md) Add contributors automatically
 - [ ] markdown
 - [ ] tmux
 - [x] [shell](https://github.com/WeileiZeng/tutorial/blob/master/shell.md) Linux/Mac terminal
