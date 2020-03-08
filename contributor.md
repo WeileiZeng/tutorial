@@ -1,9 +1,13 @@
-## contributor test
+## All contributor tutorial
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+## How to use the ALl Contributors bot 
+* Feature: add contributors automatically. all kinds of comtribution available
+* website: https://allcontributors.org/
+* It has CLI tools as well
 
 ## Contributors ✨
 
