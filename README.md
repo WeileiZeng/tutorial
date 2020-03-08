@@ -17,7 +17,7 @@ I enjoy discussion on education and practice some of my ideas by tutoring. Since
 - [x] Github related
   - [x] [GitHub pages redirect](https://github.com/WeileiZeng/tutorial/tree/master/github-page-redirect). Shourld also works for general website
   - [x] gitter
-  - [ ] Github Pages
+  - [ ] [Github Pages](https://github.com/WeileiZeng/tutorial/blob/master/github/github-pages.md) Host your website on github in munites.
   - [ ] Jekyll, Liquid
   - [ ] [Netlify]() host static github site freely.
   - [ ] [ALl contributor](https://github.com/WeileiZeng/tutorial/blob/master/contributor.md) Add contributors automatically
