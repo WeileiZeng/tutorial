@@ -7,24 +7,24 @@ I enjoy discussion on education and practice some of my ideas by tutoring. Since
 ## List of subjects
 
 * Python
-* Java (AP-CS)  AP Computer Science A
+* Java (AP-CS-A)  AP Computer Science A
 * Javascript,  AP computer Science Principle
 
-
-
-## Python
-
-
-
-## Java
-
-
-## Javascript
-
-
-## others
+### miscs
 * GitHub pages
 * markdown
 * tmux
 * shell
+
+## Python
+TBD
+
+
+## Java
+TBD
+
+## Javascript
+TBD
+
+
 
