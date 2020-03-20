@@ -1,8 +1,8 @@
 physics 210B, winter 2020, E&M classes
 
-Instructor: Leonid Pryadko
+Instructor: Prof. Leonid Pryadko
 
-TA: Weilei 
+TA: Weilei Zeng
 
 Introduction: This repo only contain statistical information.
 
