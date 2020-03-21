@@ -1,8 +1,8 @@
 physics 210B, winter 2020, E&M classes
 
-Instructor: Leonid Pryadko
+Instructor: Prof. Leonid Pryadko
 
-TA: Weilei 
+TA: Weilei Zeng
 
 Introduction: This repo only contain statistical information.
 
@@ -19,4 +19,7 @@ homework record
 |       5 |       36-41 |         60 |          50 |                   39 | Jan 21    | Feb 14   |           |
 | midterm |       44-45 |         40 |          23 |                    - | -         | Feb 19   |           |
 |       6 |       50-56 |         70 |          70 |                    - | Feb 14    | Feb 24   |           |
-
+| 7 | 53-61 | 90 | 80 | 55 | | | |
+| 8 | 62-71 | 100 | 70 | 69-71| | | |
+| quiz 2 | 72 | 25 | 20 | | | | |
+| Final | 74-77 | 96 | 70 | | | |
