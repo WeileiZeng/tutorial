@@ -14,7 +14,7 @@ Students can work in a group of 2 or 3 as well. In the beginning, one would iden
     - Ask a question you think is meaningful, and then try to find answer through big data on twitter.
     
 - Website
-  - Build a website for a team, a company, or as your own portfolia.
+  - Build a website for a team, a company, a church, or as your own portfolia.
   - https://mobirise.com/
   - https://jekyllrb.com/showcase/
   
